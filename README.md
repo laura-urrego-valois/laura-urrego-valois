@@ -14,9 +14,9 @@ Hello! I'm Laura Urrego, Certified Tech Developer and a passionate programmer an
 
 💞️ I'm looking to collaborate on impactful projects where I can make significant contributions and be part of something big. I thrive in challenging environments that push me to think creatively and solve complex problems.
 
-📫 You can reach me through email at laura.urrego.valois@gmail.com or connect with me on LinkedIn at www.linkedin.com/in/lauramariaurrego. I'm open to networking and discussing potential collaborations or opportunities.
-
 🏆 In addition to my technical skills, I bring strong communication and teamwork abilities, as well as a proactive and adaptable mindset. I enjoy working in dynamic and collaborative environments, where diverse perspectives come together to create exceptional results. I'm always eager to learn from others and share my knowledge, fostering a culture of growth and collective success.
+
+📫 You can reach me through email at laura.urrego.valois@gmail.com or connect with me on LinkedIn at www.linkedin.com/in/lauramariaurrego. I'm open to networking and discussing potential collaborations or opportunities.
 
 ## 🔨 Languages and Tools
 
