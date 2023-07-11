@@ -10,7 +10,7 @@ Hello! I'm Laura Urrego, Certified Tech Developer and a passionate programmer an
 
 🤝 I enjoy collaborating in multidisciplinary teams and leveraging synergy to achieve quality results.
 
-⚡ I am a Backend development enthusiast with experience in the Java language and skills in technologies and frameworks like Spring, Hibernate, RESTful APIs, Maven, Gradle and Git. Although I also have knowledge of Frontend tools like HTML, CSS, JavaScript and React, my main focus is on Backend development. I enjoy building robust and scalable applications, optimizing their performance, and delivering efficient solutions.
+⚡ I am a Backend development enthusiast with experience in the Java language and skills in technologies and frameworks like Spring, Hibernate, RESTful APIs, Maven, Gradle and Git. Although I also have knowledge of Frontend tools like HTML, CSS, JavaScript and React, my main focus is on Backend development.
 
 💞️ I'm looking to collaborate on impactful projects where I can make significant contributions and be part of something big. I thrive in challenging environments that push me to think creatively and solve complex problems.
 
